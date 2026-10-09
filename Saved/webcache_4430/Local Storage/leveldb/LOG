@@ -1,3 +1,5 @@
-2026/09/29-19:00:57.867 5d98 Reusing MANIFEST C:/Users/prash/Desktop/Peronal Projects/UE5/ShadowsOfNekhbet/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2026/09/29-19:00:57.868 5d98 Recovering log #3
-2026/09/29-19:00:57.869 5d98 Reusing old log C:/Users/prash/Desktop/Peronal Projects/UE5/ShadowsOfNekhbet/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2026/10/08-20:02:57.733 1324 Reusing MANIFEST C:/Users/prash/Desktop/Peronal Projects/UE5/ShadowsOfNekhbet/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2026/10/08-20:02:57.734 1324 Recovering log #3
+2026/10/08-20:02:57.734 1324 Level-0 table #3: started
+2026/10/08-20:02:57.736 1324 Level-0 table #3: 69172 bytes OK
+2026/10/08-20:02:57.738 1324 Delete type=0 #3
